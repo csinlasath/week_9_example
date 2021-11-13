@@ -1,0 +1,23 @@
+{
+  "name": "office-hours-week-9",
+  "version": "1.0.0",
+  "description": "This is a example for office hours on Week 9",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csinlasath/week_9_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csinlasath/week_9_example/issues"
+  },
+  "homepage": "https://github.com/csinlasath/week_9_example#readme"
+}
